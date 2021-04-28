@@ -1,0 +1,20 @@
+.login-page{
+    width: 100vw;
+    height: 100vh;
+    background: rgb(245,245,245);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-card{
+    background: white;
+    border-radius: 25px;
+    width: 40vw;
+    height: 40vh;
+    padding: 2%;
+    box-shadow: 3px 5px 5px rgba(0,0,0,0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

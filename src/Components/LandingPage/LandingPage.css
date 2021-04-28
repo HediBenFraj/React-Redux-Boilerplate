@@ -1,0 +1,9 @@
+.landing-page{
+    width: 100VW;
+    height: 100VH;
+    background: rgb(245, 245, 245);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
