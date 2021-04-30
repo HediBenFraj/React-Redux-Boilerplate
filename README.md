@@ -24,6 +24,34 @@ Please note that i don't recommend such a structure for beginners or small proje
 
 ### Required dependencies 
 
+    "antd": "^4.15.3",
+    "axios": "^0.21.1",
+    "redux": "^4.1.0",
+    "react-redux": "^7.2.4",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "react-router-dom": "^5.2.0",
+
+#### 1) antd : a ui component library for react. 
+
+#### 2) axios : a js library for handeling http requests.
+
+#### 3) redux, react-redux : a js library to handle state managment.
+
+#### 4) redux-devtools-extension : a middleware that allows us to work developper tools extension in the browser.
+
+#### 5) redux-logger : a middleware for logging our redux actions.
+
+#### 6) redux-persist : a library that gives us the ability to easily save our redux store to local storage. 
+
+#### 7) redux-thunk : a middleware that allows us to cerate action creators that return a function instead of an action 
+
+This is helpfull and gives us more freedom creating with our actions
+
+#### 8) react-router-dom : a js library that handles routing in our react application
+
 ### Folder/File structure 
 
     __src
@@ -73,7 +101,7 @@ This folder will house our redux action creators.
     
     - ./src/actions/<module>.actions.js
 
-This file will have the implementation of our actions.
+This file will have the implementation of our actions creators.
 
 
 #### Example of <module>.actions.js file :
@@ -390,7 +418,7 @@ our component implementation (jsx) :
 
 
 
-# I hope this repository is helpfull to you.
+# I hope that you found this reposiroty helpfull.
 
-## I invite you to visit [NodeJs/Express jwt authentication app boilerplate](https://laravel.com/docs/routing) :
+## [I invite you to visit NodeJs/Express jwt authentication app boilerplate](https://github.com/HediBenFraj/ExpressJs-JWT-Authentication-Authorization.git) :
 
