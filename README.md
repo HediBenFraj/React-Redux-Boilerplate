@@ -4,7 +4,7 @@ In this repository you will find an efficient, easily understandable React-redux
 
 ## Main purpose
 
-The main purpose of this repository is to mninimize the app setup time to start coding as soon as possible and to provide a robust, well organized folder/file structure for your application.
+The main purpose of this repository is to provide a robust, well organized folder/file structure for your application and to mninimize the app setup time to start coding as soon as possible.
 
 Please note that i don't recommend such a structure for beginners or small projects although it would be great to get familiar with it as soon as possible.
 
