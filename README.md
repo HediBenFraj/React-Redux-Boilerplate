@@ -59,6 +59,18 @@ Please note that i don't recommend such a structure for beginners or small proje
      |                 |_ index.js
      |__ index.js
 
-### Undestanding the Foler/File structure
+### Undestanding the Folder/File structure
 
+    - ./<folder>/index.js
 
+#### actions
+
+The index.js files in each folder are only used for east of referencing modules while importing.
+
+    - ./src/actions  
+
+This folder will house our redux action creators.
+    
+    - ./src/actions/<module>.actions.js
+
+This file will have the implementation of our actions.
