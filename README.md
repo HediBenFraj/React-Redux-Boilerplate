@@ -321,6 +321,8 @@ This folder will house our components represented by folders
 
 This folder will contain every file specific to a component 
 
+Our styling:
+
     - ./src/Components/<Component>/<Component>.css
 
     .login-page{
@@ -344,7 +346,7 @@ This folder will contain every file specific to a component
         align-items: center;
     }
 
-Our styling
+our component implementation (jsx) :
 
     - ./src/Components/<Component>/<Component>.js
 
@@ -386,4 +388,9 @@ Our styling
     const connectedLoginPage = connect(mapState,actionCreators)(LoginPage)
     export {connectedLoginPage as LoginPage}
 
-our component implementation (jsx)
+
+
+# I hope this repository is helpfull to you.
+
+## I invite you to visit [NodeJs/Express jwt authentication app boilerplate](https://laravel.com/docs/routing) :
+
