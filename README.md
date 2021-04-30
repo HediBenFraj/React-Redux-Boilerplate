@@ -87,7 +87,7 @@ This is helpfull and gives us more freedom creating with our actions
      |                 |_ index.js
      |__ index.js
 
-### Undestanding the Folder/File structure
+### Understanding the Folder/File structure
 
     - ./<folder>/index.js
 
