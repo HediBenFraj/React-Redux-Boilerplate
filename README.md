@@ -91,7 +91,7 @@ This is helpfull and gives us more freedom creating with our actions
 
     - ./<folder>/index.js
 
-The index.js files in each folder are only used for east of referencing modules while importing.
+The index.js files in each folder are only used for ease of referencing modules while importing.
 
 #### 1) _actions
 
